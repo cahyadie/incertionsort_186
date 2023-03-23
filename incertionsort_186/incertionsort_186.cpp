@@ -49,7 +49,7 @@ void insertionsort()
             arr[j + 1] = arr[j];
             j--;
         }
-        arr[j + 1] + temp;
+        arr[j + 1] = temp;
 
         cout << endl;
         cout << "\nPass " << i << ":";
