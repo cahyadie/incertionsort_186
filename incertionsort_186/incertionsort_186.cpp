@@ -5,6 +5,9 @@ int arr[20];
 int n;
 
 
+
+
+
  
 
 
